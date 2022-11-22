@@ -1,0 +1,1 @@
+audio_play_sound(snd_player_shot_death,1,0)

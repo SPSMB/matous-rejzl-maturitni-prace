@@ -1,0 +1,2 @@
+dotek=false;
+odejit=false;

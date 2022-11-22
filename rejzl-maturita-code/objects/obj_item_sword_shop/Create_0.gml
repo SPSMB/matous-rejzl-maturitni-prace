@@ -1,0 +1,1 @@
+info="bonus attack damage";
